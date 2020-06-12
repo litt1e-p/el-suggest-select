@@ -1,0 +1,26 @@
+{
+  "name": "el-suggest-select",
+  "version": "0.0.1",
+  "description": "suggestions grouped component for element-ui select",
+  "config": {
+    "libName": "el-suggest-select"
+  },
+  "keywords": [
+    "el-suggest-select",
+    "element ui",
+    "group",
+    "suggest",
+    "select",
+    "vue"
+  ],
+  "author": "litt1e-p",
+  "license": "MIT",
+  "main": "dist/el-suggest-select.umd.js",
+  "module": "dist/el-suggest-select.esm.js",
+  "unpkg": "dist/el-suggest-select.min.js",
+  "dependencies": {
+    "vue": "^2.6.11",
+    "babel-plugin-component": "^1.1.1",
+    "lodash": "^4.17.15"
+  }
+}
