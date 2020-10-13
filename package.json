@@ -1,6 +1,6 @@
 {
   "name": "el-suggest-select",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "suggestions grouped component for element-ui select",
   "config": {
     "libName": "el-suggest-select"
