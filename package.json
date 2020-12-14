@@ -1,6 +1,6 @@
 {
   "name": "el-suggest-select",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "suggestions grouped component for element-ui select",
   "config": {
     "libName": "el-suggest-select"
@@ -21,6 +21,7 @@
   "dependencies": {
     "vue": "^2.6.11",
     "babel-plugin-component": "^1.1.1",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.15",
+    "core-js": "^3.8.1"
   }
 }
