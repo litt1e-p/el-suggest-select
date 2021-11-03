@@ -1,13 +1,6 @@
 # el-suggest-select
 
-suggestions grouped vue component for element-ui select
-
-# requirement
-
-```js
-npm i vue
-npm i element-ui
-```
+suggestions grouped vue2.x component for element-ui select
 
 # installation
 

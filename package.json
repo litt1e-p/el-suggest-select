@@ -18,11 +18,14 @@
   "main": "dist/el-suggest-select.umd.js",
   "module": "dist/el-suggest-select.esm.js",
   "unpkg": "dist/el-suggest-select.min.js",
+  "peerDependencies": {
+    "element-ui": "^2.15.6"
+  },
   "dependencies": {
-    "vue": "^2.6.12",
+    "vue": "^2.6.14",
     "babel-plugin-component": "^1.1.1",
-    "lodash": "^4.17.15",
-    "core-js": "^3.8.1",
-    "regenerator-runtime": "^0.13.7"
+    "lodash": "^4.17.21",
+    "core-js": "^3.19.1",
+    "regenerator-runtime": "^0.13.9"
   }
 }
